@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudante de Sistemas de Informação na FEF <br>
   💻 Focado em desenvolvimento de software e fundamentos de TI <br>
-  🎵 Músico apaixonado, atuando com voz e violão na Igreja <br>
+  🎵 Músico <br>
   🚀 Buscando evoluir em ciência, tecnologia e cultura
 </p>
 
@@ -11,15 +11,14 @@
 
 ### 💡 Sobre mim
 
-Sou curioso por natureza, com sede de conhecimento em áreas como:
+Sou curioso por natureza, com forte interesse em áreas como:
 - Desenvolvimento Web e de Software
-- Filosofia, Teologia e Engenharia
-- Música, Astrofísica e Cultura Geral
+- Filosofia e Teologia
+- Música e Cultura
 
 Hoje estudo:
-- Java, C, HTML, CSS, lógica de programação, matrizes e tabelas-verdade
-- Inglês técnico e autodidata
-- Estratégias de produtividade e aprendizado
+- Java, C, HTML, CSS, lógica de programação
+- Inglês
 
 ---
 
@@ -34,10 +33,8 @@ Hoje estudo:
 
 ### 🎯 Objetivos
 
-- 💼 Trabalhar com tecnologia fora do Brasil
-- 💰 Criar um ecossistema de empresas inovadoras
+- 💼 Trabalhar com tecnologia
 - 📚 Produzir ideias que impactem o mundo em diversas áreas
-- 🧠 Tornar-me um pensador multidisciplinar
 
 ---
 
@@ -49,4 +46,4 @@ Hoje estudo:
 ---
 
 ⭐ **Obrigado por visitar meu perfil!**  
-Se quiser trocar uma ideia, colaborar em projetos ou indicar algo bacana, sinta-se à vontade!
+Se quiser trocar uma ideia, colaborar em projetos ou me indicar algo bacana, sinta-se à vontade!
