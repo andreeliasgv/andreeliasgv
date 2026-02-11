@@ -3,7 +3,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZkeWdkcG93MGVyZXNiYnV6Y214d2x4eWlwZWVxd2R5dzFraXRxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" style="width: 250px;">
 </p>
 <p align="center">
-  🎓 Estudante do 2° Semestre de Sistemas de Informação na FEF <br>
+  🎓 Estudante do 3° Semestre de Sistemas de Informação na FEF <br>
   💻 Focado em desenvolvimento de software e fundamentos de TI <br>
   🎵 Músico <br>
   🚀 Buscando evoluir em ciência, tecnologia e cultura
