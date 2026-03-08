@@ -20,20 +20,22 @@ Sou bastante curioso, com forte interesse em áreas como:
 
 ---
 
-### ⚙️ Tecnologias que estou aprendendo:
+# ⚙️ Tecnologias que estou aprendendo
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](docs/java.md)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](docs/html5.md)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](docs/css3.md)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](docs/javascript.md)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](docs/postgresql.md)
+
+> Clique em uma tecnologia para ver uma página com explicação, recursos e projetos sugeridos.
 
 ---
 
 ### 🎯 Objetivos:
 
 - 💼 Trabalhar com tecnologia
-- 📚 Produzir ideias que impactem o mundo
+- 📚 Produzir ideias de alto impacto
 
 ---
 
