@@ -52,11 +52,16 @@ Gosto de transformar o que aprendo em projetos práticos e acompanhar minha evol
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
-### Dados e versionamento
+### Dados
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
+</p>
+
+### Versionamento
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Azure_DevOps_(TFVC)-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps com TFVC" />
